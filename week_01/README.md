@@ -1,2 +1,2 @@
 # Qingyi He
-![data selfie](data_selfie.HEIC)
+![data selfie](data_selfie.jpg)
