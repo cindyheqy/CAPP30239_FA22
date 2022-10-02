@@ -1,2 +1,3 @@
 # Qingyi He
 ![data selfie](data_selfie.jpg)
+My name is Qingyi He. I am now a graduate student at University of Chicago, pursuing master degree of public policy. I graduated from Zhejiang University, majoring in journalism and minoring in finance. Data journalism is always one of my dream job. As I did quite a lot of work in journalism, I hope that I could add more value to the news report by adding data analysis and visulization. And I'm always excited to see me creating those amazing infographic as some kinda art piece. Couldn't wait to have fun!  
